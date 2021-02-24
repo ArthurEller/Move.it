@@ -87,7 +87,7 @@ $ git clone https://github.com/arthurhmes/Move.it.git
 $ yarn install
 
 # Rode a aplicação
-$ yarn start
+$ yarn dev
 
 ```
 Acesse: http://localhost:3000/ para ver o resultado.
