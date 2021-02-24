@@ -16,9 +16,9 @@
 ##### Tendo como base neste cronograma. 
 | Dia, etapa   | Assunto |
 |----------|----------|
-|Segunda [Hoje] | Introdução ✅| 
-|Terça |  Desvendando o Next.js |
-|Quarta |  Contexto e componentes |
+|Segunda | Introdução ✅| 
+|Terça |  Desvendando o Next.js ✅ |
+|Quarta [Hoje] |  Contexto e componentes ✅ |
 |Quinta |  Storage, SRR & Lambda |
 |Sexta |  Próximo nivel com React |
 
