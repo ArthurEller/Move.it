@@ -62,7 +62,10 @@ Você tambem pode copiar e editar esse layout: [Figma](https://www.figma.com/fil
 Até o momento esse projeto foi feito utilizando as seguintes tecnologias:
 
 * [Typescript](https://www.typescriptlang.org/)
+* [Next JS](https://nextjs.org/)
 * [React](https://reactjs.org/)
+* [React Context API](https://pt-br.reactjs.org/docs/context.html)
+
 
 ## :rocket: Funcionalidades
 Essas funcionalidades contemplam o projeto.
