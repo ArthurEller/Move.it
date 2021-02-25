@@ -90,9 +90,9 @@ $ yarn install
 $ yarn dev
 
 ```
-Acesse: http://localhost:3000/ para ver o resultado.
+Acesse: http://localhost:3000/ para ver o resultado
 
-### 🌐 Vercel
+### 🌐 Vercel 
 Acesse: https://move-it-self.vercel.app/
 
 # :memo: Licença
