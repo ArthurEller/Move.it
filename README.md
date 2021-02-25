@@ -92,8 +92,8 @@ $ yarn dev
 ```
 Acesse: http://localhost:3000/ para ver o resultado.
 
-### 🌐 Netlify
-!! Breve
+### 🌐 Vercel
+Acesse: https://move-it-self.vercel.app/
 
 # :memo: Licença
 
