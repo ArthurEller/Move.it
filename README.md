@@ -12,15 +12,14 @@
    <img src="./src/assets/Logo.png" alt="Move.it" width="420"/>
 </p>
 
-#### ⚠️ Esta aplicação se encontra em desenvolvimento!⚠️
-##### Tendo como base neste cronograma. 
+#### ✅ Aplicação Finalizada!
 | Dia, etapa   | Assunto |
 |----------|----------|
 |Segunda | Introdução ✅| 
 |Terça |  Desvendando o Next.js ✅ |
 |Quarta |  Contexto e componentes ✅ |
-|Quinta [Hoje] |  Storage, SRR & Lambda ✅ |
-|Sexta |  Próximo nivel com React |
+|Quinta |  Storage, SRR & Lambda ✅ |
+|Sexta |  Próximo nivel com React ✅ |
 
 Toda descrição abaixo esta referida a etapa atual.
 ## 📖 Sobre 

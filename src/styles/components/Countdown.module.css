@@ -64,9 +64,24 @@
   background: var(--blue-dark);
 }
 
+.countdownButton img {
+  margin-left: 1rem;
+}
+
+.countdownButton span {
+  margin-left: 1rem;
+
+  font-family: Rajdhani;
+  font-weight: 100;
+}
+
 .countdownButtonActive {
   background: var(--white);
   color: var(--title);
+}
+
+.countdownButtonFineshed {
+  border-bottom: 3px solid var(--green);
 }
 
 .countdownButtonActive:not(:disabled):hover {
